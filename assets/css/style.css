@@ -1,0 +1,62 @@
+body {
+    font-family: 'Lobster';
+    align-content: center;      
+    color: white;      
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align:center;
+    vertical-align:center;
+    line-height: 36px;  
+}
+
+  .container {
+    justify-content: center;
+}
+
+  .center {      
+    width: 1024px;
+    height: 768px;
+    padding-top: 200px;  
+    margin-left: 300px;    
+    background-image: url("../images/mewtwo.jpg");
+    background-repeat: no-repeat;
+  }
+
+  .wrapper {
+    padding-left: 330px;
+  }
+
+  #won {
+    padding: 20px;
+    color: rgb(243, 70, 70);
+    font-size: 16px;
+  }
+
+  #lost {
+    padding: 20px;
+    color: red;
+    font-size: 16px;
+  }
+
+  #attempts {
+    padding: 20px;
+    color: red;
+    font-size: 16px;
+  }
+
+  #playerGuess {
+    padding: 20px;
+    color:red;
+    font-size: 16px;
+  }
+
+  h1 {
+    color: mediumpurple;
+    font-size: 45px;
+    padding-bottom: 20px;
+  }
+
+  p {
+    
+    font-family: 'Lora';
+  }
